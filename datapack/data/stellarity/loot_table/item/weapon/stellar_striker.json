@@ -45,6 +45,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_model": "stellarity:stellar_striker",
+                "bettercombat:preset_id": "bettercombat:claymore",
                 "minecraft:custom_data": {
                   "stellarity:item": "stellar_striker"
                 },

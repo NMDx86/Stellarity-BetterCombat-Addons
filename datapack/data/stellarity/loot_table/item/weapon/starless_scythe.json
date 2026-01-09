@@ -67,6 +67,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_model": "stellarity:starless_scythe",
+                "bettercombat:preset_id": "bettercombat:scythe",
                 "minecraft:custom_data": {
                   "stellarity:item": "starless_scythe"
                 },

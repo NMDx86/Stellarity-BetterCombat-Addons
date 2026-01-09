@@ -15,6 +15,7 @@
                   "hidden_components": ["unbreakable"]
                 },
                 "minecraft:item_model": "stellarity:kaleidoscope",
+                "bettercombat:preset_id": "bettercombat:heavy_axe",
                 "minecraft:custom_data": {
                   "stellarity:item": "kaleidoscope"
                 },

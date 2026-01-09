@@ -96,6 +96,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_model": "stellarity:the_beginning",
+                "bettercombat:preset_id": "bettercombat:dagger",
                 "minecraft:custom_data": {
                   "stellarity:item": "spirit_dagger"
                 },
@@ -209,6 +210,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_model": "stellarity:the_end",
+                "bettercombat:preset_id": "bettercombat:dagger",
                 "minecraft:custom_data": {
                   "stellarity:item": "spirit_dagger"
                 },

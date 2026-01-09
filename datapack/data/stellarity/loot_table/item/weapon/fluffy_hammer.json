@@ -11,9 +11,11 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_model": "stellarity:fluffy_hammer",
+                "bettercombat:preset_id": "bettercombat:hammer",
                 "minecraft:custom_data": {
                   "stellarity:item": "fluffy_hammer"
                 },
+
                 "minecraft:rarity": "rare",
                 "minecraft:max_damage": 1562,
                 "minecraft:item_name": {
