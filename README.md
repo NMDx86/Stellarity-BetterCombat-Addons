@@ -22,3 +22,7 @@ The line "bettercombat:presetid": "bettercombat:sword" is the preset settings, s
 https://github.com/ZsoltMolnarrr/BetterCombat/tree/1.21.11/common/src/main/resources/data/bettercombat/weapon_attributes
 
 For example, you want the harvester to be a 2 handed greatsword, just change the bettercombat:sword to bettercombat:claymore, simple!
+
+
+Also I had full permission to publish this please don't sue me
+<img width="1101" height="122" alt="image" src="https://github.com/user-attachments/assets/388158b9-6113-4b7e-be3c-083742d9ec94" />
